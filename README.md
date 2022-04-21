@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mardisiaw
 - 👀 I’m interested in automation and AI
-- 🌱 I’m currently learning 3D Unreal Engine
+- 🌱 I’m currently learning AI
 
 <!---
 mardisiaw/mardisiaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
